@@ -1,0 +1,28 @@
+body{
+    font-family: arial;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin: 0px;
+}
+.box{
+    background: #111;
+    border-radius: 5px;
+    color:white;
+    padding: 20px;
+    margin: 10px;
+}
+span{
+    color: #feb201;
+}
+a{
+    text-decoration: none;
+    background: #feb201;
+    color: #332200;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
