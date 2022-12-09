@@ -1,2 +1,2 @@
 # Exercicio-Display
-##display inline-block
+##display inline-block.
